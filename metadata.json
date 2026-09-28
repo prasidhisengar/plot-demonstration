@@ -1,0 +1,6 @@
+{
+  "name": "MP Kisan Portal - Inspection",
+  "description": "Android mobile prototype for MP Kisan Portal - Demonstration Plot Inspection by DDA Officers",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
